@@ -1,0 +1,10 @@
+[database]
+host = "localhost"
+user = "sagar"
+port = 3306
+pass = "sagar@30"
+name = "Sales_Report"
+
+[server]
+port = 3011
+debug = true
